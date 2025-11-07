@@ -45,7 +45,7 @@
 **2. Connect the Temp & RH Sensor**
 - Connect the Temp & RH Sensor to a Grove cable, then plug the cable into the black Add-ons port on the GoGo Board.
 
-|![](https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/Temp%20&%20RH/Temp%20&%20RH.gif?raw=true)|![](https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/Temp%20&%20RH/digital%20temperature%20with%20board%20(new%20version).png?raw=true)|
+|![](https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/Temp%20&%20RH/Temp%20&%20RH.gif?raw=true){{{width="160" height="auto"}}}|![](https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/Temp%20&%20RH/digital%20temperature%20with%20board%20(new%20version).png?raw=true)|
 |-|-|
 
 

@@ -1,3 +1,5 @@
+![](https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/Temp%20&%20RH/%5B%20Multi%20%5D%20%20-%20%20Temperature%20and%20Relative%20Humidity%20Sensor.jpg?raw=true)
+
 # Temperature-and-Relative-Humidity-Sensor
 **The Digital Temperature & Relative Humidity (RH) Sensor** is a device used to measure air temperature and relative humidity. It is easy to use and provides accurate readings. The module is built with a sensor from the SHT3x series (such as SHT30 or SHT31), which is widely used in environmental science, smart home systems, and various automated monitoring applications.
 
